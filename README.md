@@ -39,7 +39,7 @@ This project implements an AI-powered chatbot that allows users to query a produ
 
 ## Installation:
 ```bash
-    git clone https://github.com/LLM_chatbot_product_supplier.git
+    git clone https://github.com/sreyangshu05/LLM_chatbot_product_supplier.git
     cd LLM_chatbot_product_supplier
     pip install Flask flask-cors transformers mysql-connector-python python-dotenv flask-jwt-extended
     python app.py
